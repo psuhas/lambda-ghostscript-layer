@@ -1,0 +1,11 @@
+{
+  "name": "lambda-ghostscript-layer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Suhas Pharkute (psuhas@gmail.com)",
+  "license": "ISC"
+}
